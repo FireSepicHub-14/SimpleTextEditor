@@ -7,3 +7,9 @@ It's not difficult. It's no different from the text editor that comes with the o
 
 ただし、javaが動く環境でなければなりません。
 However, it must be an environment where java works.
+
+
+:::note warn
+補足
+ワンちゃん、動かない可能性はあります。その時はPullしてください!
+:::
